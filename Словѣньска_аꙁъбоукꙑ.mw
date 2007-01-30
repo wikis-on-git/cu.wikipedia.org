@@ -1,369 +1,351 @@
+Си словѣньсцѣи азъбѹкъви ѥсте. Бѹкъвъ рѧдъ данъ съгласьно съ исконьноѭ Кѷрилловоѭ ѥстъ.
 {|  border="1" cellspacing="0" cellpadding="3"
-!colspan=1 bgcolor="#FFDEAD" align="center" | Бѹкы
-!colspan=1 bgcolor="#FFDEAD" align="center" | Назъваниѥ
-!colspan=1 bgcolor="#FFDEAD" align="center" | Чьтениѥ
+!colspan=1 bgcolor="#FFDEAD" | Кѷрилловы бѹкъви
+!colspan=1 bgcolor="#FFDEAD" | Кѷрилловыихъ бѹкъвъ чьтениѥ
+!colspan=1 bgcolor="#FFDEAD" | Климентовы бѹкъви
+!colspan=1 bgcolor="#FFDEAD" | Бѹкъви Unicode5
+!colspan=1 bgcolor="#FFDEAD" | Назъваниѥ
+!colspan=1 bgcolor="#FFDEAD" | Климентовыихъ бѹкъвъ чьтениѥ
 |-
+|Ⰰ
+|/a/
 |[[Image:Early Cyrillic letter Azu.png]]
-|азъ
-|/а/
-|-
-|[[Image:Early Cyrillic letter Buky.png]]
-|бѹкы
-|/b/
-|-
-|[[Image:Early Cyrillic letter Viedi.png]]
-|вѣдѣ
-|/v/ (/w/)
-|-
-|[[Image:Early Cyrillic letter Glagoli.png]]
-|глаголи
-|/g/
-|-
-|[[Image:Early Cyrillic letter Dobro.png]]
-|добро
-|/d/
-|-
-|[[Image:Early Cyrillic letter Yesti.png]]
-|ѥстъ
-|/e/
-|-
-|[[Image:Early Cyrillic letter Zhiviete.png]]
-|живѣте
-|/žʲ/
-|-
-|[[Image:Early Cyrillic letter Dzelo.png]]
-|ѕѣло
-|/ʣʲ/
-|-
-|[[Image:Early Cyrillic letter Zemlia.png]]
-|земл
-|/z/
-|-
-|[[Image:Early Cyrillic letter I.png]]
-|і
-|/i/
-|-
-|[[Image:Early Cyrillic letter Izhe.png]]
-|иже
-|/i/
-|-
-|[[Image:Early Cyrillic letter Dierv.png]]
-|ћрьвь
-|/gʲ/
-|-
-|[[Image:Early Cyrillic letter Kako.png]]
-|како
-|/k/
-|-
-|[[Image:Early Cyrillic letter Liudiye.png]]
-|людиѥ
-|/l/
-|-
-|[[Image:Early Cyrillic letter Myslite.png]]
-|мыслите
-|/m/
-|-
-|[[Image:Early Cyrillic letter Nashi.png]]
-|нашь
-|/n/
-|-
-|[[Image:Early Cyrillic letter Onu.png]]
-|онъ
-|/o/
-|-
-|[[Image:Early Cyrillic letter Pokoi.png]]
-|покои
-|/p/
-|-
-|[[Image:Early Cyrillic letter Ritsi.png]]
-|рьци
-|/r/
-|-
-|[[Image:Early Cyrillic letter Slovo.png]]
-|слово
-|/s/
-|-
-|[[Image:Early Cyrillic letter Tvrido.png]]
-|тврьдо
-|/t/
-|-
-|[[Image:Early Cyrillic letter Uku.png]]
-|ѹкъ
-|/u/
-|-
-|[[Image:Early Cyrillic letter Fritu.png]]
-|фрьтъ
-|/f/
-|-
-|[[Image:Early Cyrillic letter Khieru.png]]
-|хѣръ
-|/x/
-|-
-|[[Image:Early Cyrillic letter Otu.png]]
-|ѡмега, от
-|/o/
-|-
-|[[Image:Early Cyrillic letter Tsi.png]]
-|ци
-|/ʦʲ/
-|-
-|[[Image:Early Cyrillic letter Chrivi.png]]
-|чрьвь	
-|/ʧʲ/
-|-
-|[[Image:Early Cyrillic letter Sha.png]]
-|ша
-|/ʃʲ/
-|-
-|[[Image:Early Cyrillic letter Shta.png]]
-|ща
-|/ʃtʲ/
-|-
-|[[Image:Early Cyrillic letter Yeru.png]]
-|ѥръ
-|/ɯ̆/
-|-
-|[[Image:Early Cyrillic letter Yery.png]]
-|ѥры
-|/ɯ/
-|-
-|[[Image:Early Cyrillic letter Yeri.png]]
-|ѥрь
-|/ĭ/
-|-
-|[[Image:Early Cyrillic letter Yati.png]]
-|дь
-|/jæ/ или /ʲæ/
-|-
-|[[Image:Early Cyrillic letter Yu.png]]
-|ю
-|/ju/ или /ʲu/
-|-
-|[[Image:Early Cyrillic letter Ya.png]]
-|
-|/ja/ или /ʲa/ (или = ѣ)
-|-
-|[[Image:Early Cyrillic letter Ye.png]]
-|ѥ
-|/je/ или /ʲe/
-|-
-|[[Image:Early Cyrillic letter Yusu Maliy.png]]
-|ѭсъ (малъ)
-|/ẽ/
-|-
-|[[Image:Early Cyrillic letter Yusu Maliy Yotirovaniy.png]]
-|
-|/jẽ/ или /ʲẽ/
-|-
-|[[Image:Early Cyrillic letter Yusu Bolshiy.png]]
-|ѭсъ (великъ)
-|/õ/
-|-
-|[[Image:Early Cyrillic letter Yusu Bolshiy Yotirovaniy.png]]
-|
-|/jõ/ или /ʲõ/
-|-
-|[[Image:Early Cyrillic letter Ksi.png]]
-|ѯі
-|/ks/
-|-
-|[[Image:Early Cyrillic letter Psi.png]]
-|ѱі
-|/ps/
-|-
-|[[Image:Early Cyrillic letter Fita.png]]
-|ѳита
-|/f/ ~ /θ/ ~ /t/ 
-|-
-|[[Image:Early Cyrillic letter Izhitsa.png]]
-|ѵкъ (ижица)
-|/i/ или /v/ (/w/)
-|}
-
-{|  border="1" cellspacing="0" cellpadding="3"
-!colspan=1 bgcolor="#FFDEAD" align="center" | Бѹкы
-!colspan=1 bgcolor="#FFDEAD" align="center" | Назъваниѥ
-!colspan=1 bgcolor="#FFDEAD" align="center" | Чьтениѥ
-|-
 |А
 |азъ
 |/а/
 |-
+|Ⰱ
+|/b/
+|[[Image:Early Cyrillic letter Buky.png]]
 |Б
 |бѹкы
 |/b/
 |-
+|Ⰲ
+|/w/
+|[[Image:Early Cyrillic letter Viedi.png]]
 |В
 |вѣдѣ
 |/v/ (/w/)
 |-
+|Ⰳ
+|/g/
+|[[Image:Early Cyrillic letter Glagoli.png]]
 |Г
 |глаголи
 |/g/
 |-
+|Ⰴ
+|/d/
+|[[Image:Early Cyrillic letter Dobro.png]]
 |Д
 |добро
 |/d/
 |-
+|Ⰵ
+|/je/ или /ʲe/
+|[[Image:Early Cyrillic letter Yesti.png]]
 |Е
 |ѥстъ
 |/e/
 |-
+|Ⰶ
+|/žʲ/
+|[[Image:Early Cyrillic letter Zhiviete.png]]
 |Ж
 |живѣте
 |/žʲ/
 |-
+|Ⰷ
+|/ʣʲ/
+|[[Image:Early Cyrillic letter Dzelo.png]]
 |Ѕ
 |ѕѣло
 |/ʣʲ/
 |-
+|Ⰸ
+|/z/
+|[[Image:Early Cyrillic letter Zemlia.png]]
 |З
 |земл
 |/z/
 |-
-|И
-|иже
+|Ⰺ
 |/i/
-|-
+|[[Image:Early Cyrillic letter I.png]]
 |І
 |і
 |/i/
 |-
-|Ћ
+|Ⰻ
+|/i/
+|[[Image:Early Cyrillic letter Izhe.png]]
+|И
+|иже
+|/i/
+|-
+|Ⰼ
+|/dʲ/
+|[[Image:Early Cyrillic letter Dierv.png]]
+|́́́Ћ
 |ћрьвь
 |/gʲ/
 |-
+|Ⰽ
+|/k/
+|[[Image:Early Cyrillic letter Kako.png]]
 |К
 |како
 |/k/
 |-
+|Ⰾ
+|/l/
+|[[Image:Early Cyrillic letter Liudiye.png]]
 |Л
 |людиѥ
 |/l/
 |-
+|Ⰿ
+|/m/
+|[[Image:Early Cyrillic letter Myslite.png]]
 |М
 |мыслите
 |/m/
 |-
+|Ⱀ
+|/n/
+|[[Image:Early Cyrillic letter Nashi.png]]
 |Н
 |нашь
 |/n/
 |-
+|Ⱁ
+|/o/
+|[[Image:Early Cyrillic letter Onu.png]]
 |О
 |онъ
 |/o/
 |-
+|Ⱂ
+|/p/
+|[[Image:Early Cyrillic letter Pokoi.png]]
 |П
 |покои
 |/p/
 |-
+|Ⱃ
+|/r/
+|[[Image:Early Cyrillic letter Ritsi.png]]
 |Р
 |рьци
 |/r/
 |-
+|Ⱄ
+|/s/
+|[[Image:Early Cyrillic letter Slovo.png]]
 |С
 |слово
 |/s/
 |-
+|Ⱅ
+|/t/
+|[[Image:Early Cyrillic letter Tvrido.png]]
 |Т
 |тврьдо
 |/t/
 |-
-|Ѹ
+|Ⱛ
+|/ʲu/
+|
+|
+|
+|
+|
+|-
+|
+|
+|[[Image:Early Cyrillic letter Uku.png]]
+|Ѹ
 |ѹкъ
 |/u/
 |-
+|Ⱇ
+|/p/ > /f/
+|[[Image:Early Cyrillic letter Fritu.png]]
 |Ф
 |фрьтъ
 |/f/
 |-
+|Ⱈ
+|/x/
+|[[Image:Early Cyrillic letter Khieru.png]]
 |Х
 |хѣръ
 |/x/
 |-
+|Ⱉ
+|/o/
+|[[Image:Early Cyrillic letter Otu.png]]
 |Ѡ
 |ѡмега, от
 |/o/
 |-
-|Ц
-|ци
-|/ʦʲ/
-|-
-|Ч
-|чрьвь	
-|/ʧʲ/
-|-
-|Ш
-|ша
-|/ʃʲ/
-|-
+|Ⱋ
+|/tʲ/
+|[[Image:Early Cyrillic letter Shta.png]]
 |Щ
 |ща
 |/ʃtʲ/
 |-
+|Ⱌ
+|/ʦʲ/
+|[[Image:Early Cyrillic letter Tsi.png]]
+|Ц
+|ци
+|/ʦʲ/
+|-
+|Ⱍ
+|/ʧʲ/
+|[[Image:Early Cyrillic letter Chrivi.png]]
+|Ч
+|чрьвь	
+|/ʧʲ/
+|-
+|Ⱎ
+|/ʃʲ/
+|[[Image:Early Cyrillic letter Sha.png]]
+|Ш
+|ша
+|/ʃʲ/
+|-
+|Ⱏ
+|/ɯ̆/
+|[[Image:Early Cyrillic letter Yeru.png]]
 |Ъ
 |ѥръ
 |/ɯ̆/
 |-
+|
+|
+|[[Image:Early Cyrillic letter Yery.png]]
 |Ы
 |ѥры
 |/ɯ/
 |-
+|Ⱐ
+|/ĭ/
+|[[Image:Early Cyrillic letter Yeri.png]]
 |Ь
 |ѥрь
 |/ĭ/
 |-
-|Ѣ
+|Ⱑ
+|/jæ/ или /ʲæ/
+|[[Image:Early Cyrillic letter Yati.png]]
+|́Ѣ
 |дь
 |/jæ/ или /ʲæ/
 |-
+|Ⱒ
+|/xw/
+|
+|
+|
+|
+|-
+|Ⱖ
+|/jo/ или /ʲo/ (толико сън ѫсомь)
+|
+|
+|
+|
+|-
+|Ⱓ
+|/ju/ или /ʲu/
+|[[Image:Early Cyrillic letter Yu.png]]
 |Ю
 |ю
 |/ju/ или /ʲu/
 |-
+|Ⱔ
+|/   ̃/ (носовъ призвѫкъ) или /n/ (прѣдъ съгласьникы)
+|
+|
+|
+|
+|-
+|
+|
+|[[Image:Early Cyrillic letter Ya.png]]
 |
 |
 |/ja/ или /ʲa/ (или = ѣ)
 |-
+|
+|
+|[[Image:Early Cyrillic letter Ye.png]]
 |Ѥ
 |ѥ
 |/je/ или /ʲe/
 |-
+|
+|
+|[[Image:Early Cyrillic letter Yusu Maliy.png]]
 |Ѧ
 |ѭсъ (малъ)
 |/ẽ/
 |-
+|
+|
+|[[Image:Early Cyrillic letter Yusu Maliy Yotirovaniy.png]]
 |Ѩ
 |
 |/jẽ/ или /ʲẽ/
 |-
+|
+|
+|[[Image:Early Cyrillic letter Yusu Bolshiy.png]]
 |Ѫ
 |ѭсъ (великъ)
 |/õ/
 |-
+|
+|
+|[[Image:Early Cyrillic letter Yusu Bolshiy Yotirovaniy.png]]
 |Ѭ
 |
 |/jõ/ или /ʲõ/
 |-
+|
+|
+|[[Image:Early Cyrillic letter Ksi.png]]
 |Ѯ
 |ѯі
 |/ks/
 |-
+|
+|
+|[[Image:Early Cyrillic letter Psi.png]]
 |Ѱ
 |ѱі
 |/ps/
 |-
+|
+|
+|[[Image:Early Cyrillic letter Fita.png]]
 |Ѳ
 |ѳита
-|/f/ ~ /θ/~ /t/
+|/f/ ~ /θ/ ~ /t/ 
 |-
+|
+|
+|[[Image:Early Cyrillic letter Izhitsa.png]]
 |Ѵ
 |ѵкъ (ижица)
 |/i/ или /v/ (/w/)
 |}
 
-
-[[Category:Ѩзыкъ словѣньскъ]] [[Category:Грамота]]
+[[Category: Словѣньскъ ѩзыкъ]] [[Category:Грамота]]
 
 [[af:Cyrilliese alfabet]]
 [[als:Kyrillisches Alphabet]]
