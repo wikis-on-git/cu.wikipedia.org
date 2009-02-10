@@ -113,23 +113,23 @@
 |- style="font-family:inherit;font-weight:normal;" align="center"
 |&nbsp;||&nbsp;||<code>0</code>||<code>1</code>||<code>2</code>||<code>3</code>||<code>4</code>||<code>5</code>||<code>6</code>||<code>7</code>||<code>8</code>||<code>9</code>||<code>A</code>||<code>B</code>||<code>C</code>||<code>D</code>||<code>E</code>||<code>F</code>
 |- align="center"
-|<code>400</code>||&nbsp;||Ѐ||Ё||Ђ||Ѓ||Є||ꙃ||І||Ї||Ј||Љ||Њ||Ћ||Ќ||Ѝ||Ў||Џ
+|<code>400</code>||&nbsp;||{{lat-ga|Ѐ}}||{{lat-ga|Ё}}||{{lat-ga|Ђ}}||{{lat-ga|Ѓ}}||{{lat-ga|Є}}||{{lat-ga|Ѕ}}||{{lat-ga|І}}||{{lat-ga|Ї}}||{{lat-ga|Ј}}||{{lat-ga|Љ}}||{{lat-ga|Њ}}||{{lat-ga|Ћ}}||{{lat-ga|Ќ}}||{{lat-ga|Ѝ}}||{{lat-ga|Ў}}||{{lat-ga|Џ}}
 |- align="center"
-|<code>410</code>||&nbsp;||А||Б||В||Г||Д||є||Ж||ꙁ||И||Й||К||Л||М||Н||О||П
+|<code>410</code>||&nbsp;||{{lat-ga|А}}||{{lat-ga|Б}}||{{lat-ga|В}}||{{lat-ga|Г}}||{{lat-ga|Д}}||{{lat-ga|Е}}||{{lat-ga|Ж}}||{{lat-ga|З}}||{{lat-ga|И}}||{{lat-ga|Й}}||{{lat-ga|К}}||{{lat-ga|Л}}||{{lat-ga|М}}||{{lat-ga|Н}}||{{lat-ga|О}}||{{lat-ga|П}}
 |- align="center"
-|<code>420</code>||&nbsp;||Р||С||Т||У||Ф||Х||Ц||Ч||Ш||Щ||Ъ||ꙑ||Ь||Э||Ю||Я
+|<code>420</code>||&nbsp;||{{lat-ga|Р}}||{{lat-ga|С}}||{{lat-ga|Т}}||{{lat-ga|У}}||{{lat-ga|Ф}}||{{lat-ga|Х}}||{{lat-ga|Ц}}||{{lat-ga|Ч}}||{{lat-ga|Ш}}||{{lat-ga|Щ}}||{{lat-ga|Ъ}}||{{lat-ga|Ы}}||{{lat-ga|Ь}}||{{lat-ga|Э}}||{{lat-ga|Ю}}||{{lat-ga|Я}}
 |- align="center"
-|<code>430</code>||&nbsp;||а||б||в||г||д||є||ж||ꙁ||и||й||к||л||м||н||о||п
+|<code>430</code>||&nbsp;||{{lat-ga|а}}||{{lat-ga|б}}||{{lat-ga|в}}||{{lat-ga|г}}||{{lat-ga|д}}||{{lat-ga|е}}||{{lat-ga|ж}}||{{lat-ga|з}}||{{lat-ga|и}}||{{lat-ga|й}}||{{lat-ga|к}}||{{lat-ga|л}}||{{lat-ga|м}}||{{lat-ga|н}}||{{lat-ga|о}}||{{lat-ga|п}}
 |- align="center"
-|<code>440</code>||&nbsp;||р||с||т||у||ф||х||ц||ч||ш||щ||ъ||ꙑ||ь||э||ю||я
+|<code>440</code>||&nbsp;||{{lat-ga|р}}||{{lat-ga|с}}||{{lat-ga|т}}||{{lat-ga|у}}||{{lat-ga|ф}}||{{lat-ga|х}}||{{lat-ga|ц}}||{{lat-ga|ч}}||{{lat-ga|ш}}||{{lat-ga|щ}}||{{lat-ga|ъ}}||{{lat-ga|ы}}||{{lat-ga|ь}}||{{lat-ga|э}}||{{lat-ga|ю}}||{{lat-ga|я}}
 |- align="center"
-|<code>450</code>||&nbsp;||ѐ||ё||ђ||ѓ||є||ꙃ||і||ї||ј||љ||њ||ћ||ќ||ѝ||ў||џ
+|<code>450</code>||&nbsp;||{{lat-ga|ѐ}}||{{lat-ga|ё}}||{{lat-ga|ђ}}||{{lat-ga|ѓ}}||{{lat-ga|є}}||{{lat-ga|ѕ}}||{{lat-ga|і}}||{{lat-ga|ї}}||{{lat-ga|ј}}||{{lat-ga|љ}}||{{lat-ga|њ}}||{{lat-ga|ћ}}||{{lat-ga|ќ}}||{{lat-ga|ѝ}}||{{lat-ga|ў}}||{{lat-ga|џ}}
 |- align="center"
-|<code>460</code>||&nbsp;||Ѡ||ѡ||Ѣ||ѣ||Ѥ||ѥ||Ѧ||ѧ||Ѩ||ѩ||Ѫ||ѫ||Ѭ||ѭ||Ѯ||ѯ
+|<code>460</code>||&nbsp;||{{lat-ga|Ѡ}}||{{lat-ga|ѡ}}||{{lat-ga|Ѣ}}||{{lat-ga|ѣ}}||{{lat-ga|Ѥ}}||{{lat-ga|ѥ}}||{{lat-ga|Ѧ}}||{{lat-ga|ѧ}}||{{lat-ga|Ѩ}}||{{lat-ga|ѩ}}||{{lat-ga|Ѫ}}||{{lat-ga|ѫ}}||{{lat-ga|Ѭ}}||{{lat-ga|ѭ}}||{{lat-ga|Ѯ}}||{{lat-ga|ѯ}}
 |- align="center"
-|<code>470</code>||&nbsp;||Ѱ||ѱ||Ѳ||ѳ||Ѵ||ѵ||Ѷ||ѷ||Оу||оу||Ѻ||ѻ||Ѽ||ѽ||Ѿ||ѿ
+|<code>470</code>||&nbsp;||{{lat-ga|Ѱ}}||{{lat-ga|ѱ}}||{{lat-ga|Ѳ}}||{{lat-ga|ѳ}}||{{lat-ga|Ѵ}}||{{lat-ga|ѵ}}||{{lat-ga|Ѷ}}||{{lat-ga|ѷ}}||{{lat-ga|Ѹ}}||{{lat-ga|ѹ}}||{{lat-ga|Ѻ}}||{{lat-ga|ѻ}}||{{lat-ga|Ѽ}}||{{lat-ga|ѽ}}||{{lat-ga|Ѿ}}||{{lat-ga|ѿ}}
 |- align="center"
-|<code>480</code>||&nbsp;||Ҁ||ҁ||҂||҃||҄||҅||҆||||&nbsp;&nbsp;҈||&nbsp;&nbsp;҉||Ҋ||ҋ||Ҍ||ҍ||Ҏ||ҏ
+|<code>480</code>||&nbsp;||{{lat-ga|Ҁ}}||{{lat-ga|ҁ}}||{{KurKlim|҂}}||{{lat-ga|&nbsp;҃&nbsp;}}||{{lat-ga|&nbsp;҄&nbsp;}}||{{lat-ga|&nbsp;҅&nbsp;}}||{{lat-ga|&nbsp;҆&nbsp;}}||||&nbsp;{{lat-ga|҈&nbsp;}}||{{lat-ga|&nbsp;҉&nbsp;}}||Ҋ||ҋ||Ҍ||ҍ||Ҏ||ҏ
 |- align="center"
 |<code>490</code>||&nbsp;||Ґ||ґ||Ғ||ғ||Ҕ||ҕ||Җ||җ||Ҙ||ҙ||Қ||қ||Ҝ||ҝ||Ҟ||ҟ
 |- align="center"
@@ -145,11 +145,11 @@
 |- align="center"
 |<code>4F0</code>||&nbsp;||Ӱ||ӱ||Ӳ||ӳ||Ӵ||ӵ||Ӷ||ӷ||Ӹ||ӹ||Ӻ||ӻ||Ӽ||ӽ||Ӿ||ӿ
 |- align="center"
-|<code>500</code>||&nbsp;||Ԁ||ԁ||Ԃ||ԃ||Ԅ||ԅ||Ԇ||ԇ||Ԉ||ԉ||Ԋ||ԋ||Ԍ||ԍ||Ԏ||ԏ
+|<code>500</code>||&nbsp;||{{lat-ga|Ԁ}}||{{lat-ga|ԁ}}||{{lat-ga|Ԃ}}||{{lat-ga|ԃ}}||{{lat-ga|Ԅ}}||{{lat-ga|ԅ}}||{{lat-ga|Ԇ}}||{{lat-ga|ԇ}}||{{lat-ga|Ԉ}}||{{lat-ga|ԉ}}||{{lat-ga|Ԋ}}||{{lat-ga|ԋ}}||{{lat-ga|Ԍ}}||{{lat-ga|ԍ}}||{{lat-ga|Ԏ}}||{{lat-ga|ԏ}}
 |- align="center"
-|<code>510</code>||&nbsp;||Ԑ||ԑ||Ԓ||ԓ<!--||&#1300;||&#1301;||&#1302;||&#1303;||&#1304;||&#1305;||&#1306;||&#1307;||&#1308;||&#1309;||&#1310;||&#1311;
+|<code>510</code>||&nbsp;||{{lat-ga|Ԑ}}||{{lat-ga|ԑ}}||{{lat-ga|Ԓ}}||{{lat-ga|ԓ}}||&#1300;||&#1301;||&#1302;||&#1303;||&#1304;||&#1305;||&#1306;||&#1307;||&#1308;||&#1309;||&#1310;||&#1311;
 |- align="center"
-|<code>520</code>||&nbsp;||&#1312;||&#1313;||&#1314;||&#1315;||&#1316;||&#1317;||&#1318;||&#1319;||&#1320;||&#1321;||&#1322;||&#1323;||&#1324;||&#1325;||&#1326;||&#1327;-->
+|<code>520</code>||&nbsp;||&#1312;||&#1313;||&#1314;||&#1315;||&#1316;||&#1317;||&#1318;||&#1319;||&#1320;||&#1321;||&#1322;||&#1323;||&#1324;||&#1325;||&#1326;||&#1327;
 |}
 
 == ꙁьри такождє ==
