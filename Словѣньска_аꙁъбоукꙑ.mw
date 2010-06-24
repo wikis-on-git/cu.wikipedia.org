@@ -101,7 +101,7 @@
 |/z/
 |7
 |-
-|{{Titus|Ⰺ}}
+|{{Titus|Ⰺ · Ⰹ}}
 |{{Titus|ⰺ}}
 |/i/
 |10
@@ -231,20 +231,9 @@
 |/t/
 |300
 |-
-|{{Titus|Ⱛ}}
-|{{Titus|ⱛⰽⱏ}}
+|{{Titus|Ⱆ}}
+|{{Titus|ⱆⰽⱏ}}
 |/ʲu/
-|
-|
-|
-|
-|
-|
-|
-|-
-|
-|
-|
 |
 |[[Дѣ́ло:Early Cyrillic letter Uku.png]]
 |align="center"|́́Оу
@@ -273,7 +262,7 @@
 |600
 |-
 |{{Titus|Ⱉ}}
-|
+|{{Titus|ⱉⱅⱏ}}
 |/o/
 |700
 |[[Дѣ́ло:Early Cyrillic letter Otu.png]]
@@ -281,6 +270,16 @@
 |ѡмєга, от
 |/o/
 |800
+|-
+|{{Titus|Ⱊ}}
+|
+|
+|
+|
+|
+|
+|
+|
 |-
 |{{Titus|Ⱋ}}
 |{{Titus|ⱋⱑ}}
@@ -332,8 +331,8 @@
 |/ɯ̆/
 |
 |-
-|
-|
+|{{Titus|ⰟⰋ}}
+|{{Titus|ⰵⱃⱏⰻ}}
 |
 |
 |[[Дѣ́ло:Early Cyrillic letter Yery.png]]
@@ -372,16 +371,6 @@
 |
 |
 |-
-|{{Titus|Ⱖ}}
-|{{Titus|ⱖ}}
-|/jo/ или /ʲo/ (толико съ нѫсомь)
-|
-|
-|
-|
-|
-|
-|-
 |{{Titus|Ⱓ}}
 |{{Titus|ⱓ}}
 |/ju/ или /ʲu/
@@ -392,21 +381,11 @@
 |/ju/ или /ʲu/
 |
 |-
-|{{Titus|Ⱔ}}
-|{{Titus|ⱁⱔⱄⱏ}}
-|/ ̃/ (носовъ приꙁвѫкъ) или /n/ (прѣдъ сѫгласьникꙑ)
 |
 |
 |
 |
-|
-|
-|-
-|
-|
-|
-|
-|
+|[[Дѣ́ло:Early Cyrillic letter Ya.png]]
 |Ꙗ
 |ꙗ
 |/ja/ или /ʲa/ (или = ѣ)
@@ -422,8 +401,8 @@
 |/je/ или /ʲe/
 |
 |-
-|
-|
+|{{Titus|Ⱔ}}
+|{{Titus|ⱙⱄⱏ (ⰿⰰⰾⱏ)}}
 |
 |
 |[[Дѣ́ло:Early Cyrillic letter Yusu Maliy.png]]
@@ -432,8 +411,28 @@
 |/ẽ/
 |
 |-
+|{{Titus|Ⱕ}}
+|{{Titus|ⱕ}}
 |
 |
+|
+|
+|
+|
+|
+|-
+|{{Titus|Ⱖ}}
+|{{Titus|ⱖ}}
+|/jo/ или /ʲo/ (толико съ нѫсомь)
+|
+|
+|
+|
+|
+|
+|-
+|{{Titus|Ⱗ}}
+|{{Titus|ⱗ}}
 |
 |
 |[[Дѣ́ло:Early Cyrillic letter Yusu Maliy Yotirovaniy.png]]
@@ -442,8 +441,8 @@
 |/jẽ/ или /ʲẽ/
 |
 |-
-|
-|
+|{{Titus|Ⱘ}}
+|{{Titus|ⱙⱄⱏ (ⰲⰵⰾⰻⰽⱏ)}}
 |
 |
 |[[Дѣ́ло:Early Cyrillic letter Yusu Bolshiy.png]]
@@ -452,8 +451,8 @@
 |/õ/
 |
 |-
-|
-|
+|{{Titus|Ⱙ}}
+|{{Titus|ⱙ}}
 |
 |
 |[[Дѣ́ло:Early Cyrillic letter Yusu Bolshiy Yotirovaniy.png]]
@@ -482,8 +481,8 @@
 |/ps/
 |700
 |-
-|
-|
+|{{Titus|Ⱚ}}
+|{{Titus|ⱚ}}
 |
 |
 |[[Дѣ́ло:Early Cyrillic letter Fita.png]]
@@ -492,8 +491,8 @@
 |/f/ ~ /θ/ ~ /t/
 |9
 |-
-|
-|
+|{{Titus|Ⱛ}}
+|{{Titus|ⱛ}}
 |
 |
 |[[Дѣ́ло:Early Cyrillic letter Izhitsa.png]]
@@ -501,8 +500,40 @@
 |ѵкъ (ижица)
 |/i/ или /v/ (/w/)
 |
+|-
+|{{Titus|Ⱜ}}
+|{{Titus|ⱜ}}
+|
+|
+|
+|
+|
+|
+|
+|-
+|{{Titus|Ⱝ}}
+|{{Titus|ⱝ}}
+|
+|
+|
+|
+|
+|
+|
+|-
+|{{Titus|Ⱞ}}
+|{{Titus|ⱞ}}
+|
+|
+|
+|
+|
+|
+|
 |}
 
+== ꙁьри́ та́къждє ==
+* [http://unicode.org/charts/PDF/U2C00.pdf Тавлїꙗ юникодомь (кѷри́лловꙑ боукъви)]
 
 [[Катигорі́ꙗ:Словѣ́ньска а́ꙁъбоукꙑ]]
 [[Катигорі́ꙗ:Гра́мота]]
