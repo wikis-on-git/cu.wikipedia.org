@@ -1,6 +1,6 @@
-*<small>''ими боукъвиѥ [http://kodeks.uni-bamberg.de/AKSL/media/Bukyvede.zip с҄ьдє] ви́дѣниꙗ кѷри́лловꙑихъ боукъвъ [[File:Glagoljica Az.svg|10px|Аꙁъ]] · [[File:Glagoljica Buki.svg|10px|Боукꙑ]] · [[File:Glagoljica Vedi.svg|12px|Вѣдѣ]] дѣлꙗ''</small>
-Си '''[[Словѣ́ньскъ ѩꙁꙑ́къ|словѣ́ньсцѣи]] а́ꙁъбоукъви''' ѥстє ⁙ Боукъвъ рѧдъ данъ съгласьно съ исконьноѭ Кѷриловоѭ ѥ́стъ ⁙ Кѷри́ллова а́ꙁъбоукꙑ кращьшии Климєнтовꙑ ѥстъ · нъ добрѣ словѣньскаѥго ѩꙁꙑка ꙁвѫкꙑ кажєтъ ⁙ Ꙁвѫка /u/ и /ɯ/ ꙗко жє и Климєнтовицєѭ дъвама {{Bukyvede|ⱁⱛ}} и дъвама {{Bukyvede|ⱏⰻ}} боукъвама пишѫтъ · нъ въ аꙁъбоукъвь онѣ нє въходѧтъ
-{| border="1" cellspacing="0" cellpadding="3"
+*<small>ими боукъвиѥ [http://www.wmensch.nm.ru/KurKlim6.rar с҄ьдє] ви́дѣниꙗ климєнтовꙑихъ боукъвъ '''Ꙗ''' • '''Ꙁ''' и '''Ꙃ''' дѣлꙗ и [http://titus.fkidg1.uni-frankfurt.de/unicode/tituut.asp с҄ьдє] кѷри́лловꙑихъ боукъвъ '''[[File:Glagoljica Az.svg|10px|аꙁъ]]''' • '''[[File:Glagoljica Buki.svg|10px|боукꙑ]]''' • '''[[File:Glagoljica Vedi.svg|13px|вѣдѣ]]''' дѣлꙗ</small>
+Си '''[[Словѣ́ньскъ ѩꙁꙑ́къ|словѣ́ньсцѣи]] а́ꙁъбоукъви''' ѥстє ⁙ Боукъвъ рѧдъ данъ съгласьно съ исконьноѭ Кѷриловоѭ ѥ́стъ ⁙ Кѷри́ллова а́ꙁъбоукꙑ кращьшии Климєнтовꙑ ѥстъ • нъ добрѣ словѣньскаѥго ѩꙁꙑка ꙁвѫкꙑ кажєтъ ⁙ Ꙁвѫка /u/ и /ɯ/ ꙗко жє и Климєнтовицєѭ дъвама ⁖ {{Titus|ⱁⱛ}} ⁖ и дъвама ⁖ {{Titus|ⱏⰻ}} ⁖ боукъвама пишѫтъ • нъ въ аꙁъбоукъвь онѣ нє въходѧтъ
+{| border="1" cellspacing="0" cellpadding="3" style="text-align:center;"
 !colspan=1 bgcolor="#FFDEAD" | <small>Кѷри́лловꙑ боукъви</small>
 !colspan=1 bgcolor="#FFDEAD" | <small>Имѧ</small>
 !colspan=1 bgcolor="#FFDEAD" | <small>Кѷри́лловꙑихъ боукъвъ чьтєниѥ</small>
@@ -11,497 +11,498 @@
 !colspan=1 bgcolor="#FFDEAD" | <small>Климєнтовꙑихъ боукъвъ чьтєниѥ</small>
 !colspan=1 bgcolor="#FFDEAD" | <small>Климєнтовꙑимъ боукъвамъ чисмєна</small>
 |-
-|align="center"|{{Bukyvede|Ⰰ}}
-|align="center"|{{Bukyvede|ⰰⰸⱏ}}
-|align="center"|/a/
-|align="center"|1
-|align="center"|[[Дѣ́ло:Early Cyrillic letter Azu.png]]
-|align="center"|А
-|align="center"|аꙁъ
-|align="center"|/а/
-|align="center"|1
+|{{Titus|Ⰰ}}
+|{{Titus|ⰰⰸⱏ}}
+|/a/
+|1
+|[[Дѣ́ло:Early Cyrillic letter Azu.png]]
+|А
+|аꙁъ
+|/а/
+|1
 |-
-|align="center"|{{Bukyvede|Ⰱ}}
-|align="center"|{{Bukyvede|ⰱⱁⱛⰽⱏⰻ}}
-|align="center"|/b/
-|align="center"|2
-|align="center"|[[Дѣ́ло:Early Cyrillic letter Buky.png]]
-|align="center"|Б
-|align="center"|боукꙑ
-|align="center"|/b/
-|align="center"|
+|{{Titus|Ⰱ}}
+|{{Titus|ⰱⱁⱛⰽⱏⰻ}}
+|/b/
+|2
+|[[Дѣ́ло:Early Cyrillic letter Buky.png]]
+|Б
+|боукꙑ
+|/b/
+|
 |-
-|align="center"|{{Bukyvede|Ⰲ}}
-|align="center"|{{Bukyvede|ⰲⱑⰴⱑ}}
-|align="center"|/w/
-|align="center"|3
-|align="center"|[[Дѣ́ло:Early Cyrillic letter Viedi.png]]
-|align="center"|В
-|align="center"|вѣдѣ
-|align="center"|/v/ (/w/)
-|align="center"|2
+|{{Titus|Ⰲ}}
+|{{Titus|ⰲⱑⰴⱑ}}
+|/w/
+|3
+|[[Дѣ́ло:Early Cyrillic letter Viedi.png]]
+|В
+|вѣдѣ
+|/v/ (/w/)
+|2
 |-
-|align="center"|{{Bukyvede|Ⰳ}}
-|align="center"|{{Bukyvede|ⰳⰾⰰⰳⱁⰾⰻ}}
-|align="center"|/g/
-|align="center"|4
-|align="center"|[[Дѣ́ло:Early Cyrillic letter Glagoli.png]]
-|align="center"|Г
-|align="center"|глаголи
-|align="center"|/g/
-|align="center"|3
+|{{Titus|Ⰳ}}
+|{{Titus|ⰳⰾⰰⰳⱁⰾⰻ}}
+|/g/
+|4
+|[[Дѣ́ло:Early Cyrillic letter Glagoli.png]]
+|Г
+|глаголи
+|/g/
+|3
 |-
-|align="center"|{{Bukyvede|Ⰴ}}
-|align="center"|{{Bukyvede|ⰴⱁⰱⱃⱁ}}
-|align="center"|/d/
-|align="center"|5
-|align="center"|[[Дѣ́ло:Early Cyrillic letter Dobro.png]]
-|align="center"|Д
-|align="center"|добро
-|align="center"|/d/
-|align="center"|4
+|{{Titus|Ⰴ}}
+|{{Titus|ⰴⱁⰱⱃⱁ}}
+|/d/
+|5
+|[[Дѣ́ло:Early Cyrillic letter Dobro.png]]
+|Д
+|добро
+|/d/
+|4
 |-
-|align="center"|{{Bukyvede|Ⰵ}}
-|align="center"|{{Bukyvede|ⰵⱄⱅⱏ}}
-|align="center"|/je/ или /ʲe/
-|align="center"|6
-|align="center"|[[Дѣ́ло:Early Cyrillic letter Yesti.png]]
-|align="center"|Є
-|align="center"|ѥстъ
-|align="center"|/e/
-|align="center"|5
+|{{Titus|Ⰵ}}
+|{{Titus|ⰵⱄⱅⱏ}}
+|/je/ или /ʲe/
+|6
+|[[Дѣ́ло:Early Cyrillic letter Yesti.png]]
+|Є
+|ѥстъ
+|/e/
+|5
 |-
-|align="center"|{{Bukyvede|Ⰶ}}
-|align="center"|{{Bukyvede|ⰶⰻⰲⱑⱅⰵ}}
-|align="center"|/žʲ/
-|align="center"|7
-|align="center"|[[Дѣ́ло:Early Cyrillic letter Zhiviete.png]]
-|align="center"|Ж
-|align="center"|живѣтє
-|align="center"|/žʲ/
-|align="center"|
+|{{Titus|Ⰶ}}
+|{{Titus|ⰶⰻⰲⱑⱅⰵ}}
+|/žʲ/
+|7
+|[[Дѣ́ло:Early Cyrillic letter Zhiviete.png]]
+|Ж
+|живѣтє
+|/žʲ/
+|
 |-
-|align="center"|{{Bukyvede|Ⰷ}}
-|align="center"|{{Bukyvede|ⰷⱑⰾⱁ}}
-|align="center"|/ʣʲ/
-|align="center"|8
-|align="center"|[[Дѣ́ло:Early Cyrillic letter Dzelo.png]]
-|align="center"|Ꙃ
-|align="center"|ꙃѣло
-|align="center"|/ʣʲ/
-|align="center"|6
+|{{Titus|Ⰷ}}
+|{{Titus|ⰷⱑⰾⱁ}}
+|/ʣʲ/
+|8
+|[[Дѣ́ло:Early Cyrillic letter Dzelo.png]]
+|Ꙃ
+|ꙃѣло
+|/ʣʲ/
+|6
 |-
-|align="center"|{{Bukyvede|Ⰸ}}
-|align="center"|{{Bukyvede|ⰸⰵⰿⰾⱑ}}
-|align="center"|/z/
-|align="center"|9
-|align="center"|[[Дѣ́ло:Early Cyrillic letter Zemlia.png]]
-|align="center"|Ꙁ
-|align="center"|ꙁємлꙗ
-|align="center"|/z/
-|align="center"|7
+|{{Titus|Ⰸ}}
+|{{Titus|ⰸⰵⰿⰾⱑ}}
+|/z/
+|9
+|[[Дѣ́ло:Early Cyrillic letter Zemlia.png]]
+|Ꙁ
+|ꙁємлꙗ
+|/z/
+|7
 |-
-|align="center"|{{Bukyvede|Ⰺ}}
-|align="center"|{{Bukyvede|ⰺ}}
-|align="center"|/i/
-|align="center"|10
-|align="center"|[[Дѣ́ло:Early Cyrillic letter I.png]]
-|align="center"|І
-|align="center"|і
-|align="center"|/i/
-|align="center"|10
+|{{Titus|Ⰺ}}
+|{{Titus|ⰺ}}
+|/i/
+|10
+|[[Дѣ́ло:Early Cyrillic letter I.png]]
+|І
+|і
+|/i/
+|10
 |-
-|align="center"|{{Bukyvede|Ⰻ}}
-|align="center"|{{Bukyvede|ⰻⰶⰵ}}
-|align="center"|/i/
-|align="center"|20
-|align="center"|[[Дѣ́ло:Early Cyrillic letter Izhe.png]]
-|align="center"|И
-|align="center"|ижє
-|align="center"|/i/
-|align="center"|8
+|{{Titus|Ⰻ}}
+|{{Titus|ⰻⰶⰵ}}
+|/i/
+|20
+|[[Дѣ́ло:Early Cyrillic letter Izhe.png]]
+|И
+|ижє
+|/i/
+|8
 |-
-|align="center"|{{Bukyvede|Ⰼ}}
-|align="center"|{{Bukyvede|ⰼⱃⱐⰲⱐ}}
-|align="center"|/dʲ/
-|align="center"|30
-|align="center"|[[Дѣ́ло:Early Cyrillic letter Dierv.png]]
-|align="center"|Ћ
-|align="center"|ћрьвь
-|align="center"|/gʲ/
-|align="center"|
+|{{Titus|Ⰼ}}
+|{{Titus|ⰼⱃⱐⰲⱐ}}
+|/dʲ/
+|30
+|[[Дѣ́ло:Early Cyrillic letter Dierv.png]]
+|{{lat-ga|Ћ}}
+|{{lat-ga|ћ}}рьвь
+|/gʲ/
+|
 |-
-|align="center"|{{Bukyvede|Ⰽ}}
-|align="center"|{{Bukyvede|ⰽⰰⰽⱁ}}
-|align="center"|/k/
-|align="center"|40
-|align="center"|[[Дѣ́ло:Early Cyrillic letter Kako.png]]
-|align="center"|К
-|align="center"|како
-|align="center"|/k/
-|align="center"|20
+|{{Titus|Ⰽ}}
+|{{Titus|ⰽⰰⰽⱁ}}
+|/k/
+|40
+|[[Дѣ́ло:Early Cyrillic letter Kako.png]]
+|К
+|како
+|/k/
+|20
 |-
-|align="center"|{{Bukyvede|Ⰾ}}
-|align="center"|{{Bukyvede|ⰾⱓⰴⰻⰵ}}
-|align="center"|/l/
-|align="center"|50
-|align="center"|[[Дѣ́ло:Early Cyrillic letter Liudiye.png]]
-|align="center"|Л
-|align="center"|людиѥ
-|align="center"|/l/
-|align="center"|30
+|{{Titus|Ⰾ}}
+|{{Titus|ⰾⱓⰴⰻⰵ}}
+|/l/
+|50
+|[[Дѣ́ло:Early Cyrillic letter Liudiye.png]]
+|Л
+|людиѥ
+|/l/
+|30
 |-
-|align="center"|{{Bukyvede|Ⰿ}}
-|align="center"|{{Bukyvede|ⰿⱏⰻⱄⰾⰻⱅⰵ}}
-|align="center"|/m/
-|align="center"|60
-|align="center"|[[Дѣ́ло:Early Cyrillic letter Myslite.png]]
-|align="center"|М
-|align="center"|мꙑслитє
-|align="center"|/m/
-|align="center"|40
+|{{Titus|Ⰿ}}
+|{{Titus|ⰿⱏⰻⱄⰾⰻⱅⰵ}}
+|/m/
+|60
+|[[Дѣ́ло:Early Cyrillic letter Myslite.png]]
+|М
+|мꙑслитє
+|/m/
+|40
 |-
-|align="center"|{{Bukyvede|Ⱀ}}
-|align="center"|{{Bukyvede|ⱀⰰⱎⱐ}}
-|align="center"|/n/
-|align="center"|70
-|align="center"|[[Дѣ́ло:Early Cyrillic letter Nashi.png]]
-|align="center"|Н
-|align="center"|нашь
-|align="center"|/n/
-|align="center"|50
+|{{Titus|Ⱀ}}
+|{{Titus|ⱀⰰⱎⱐ}}
+|/n/
+|70
+|[[Дѣ́ло:Early Cyrillic letter Nashi.png]]
+|Н
+|нашь
+|/n/
+|50
 |-
-|align="center"|{{Bukyvede|Ⱁ}}
-|align="center"|{{Bukyvede|ⱁⱀⱏ}}
-|align="center"|/o/
-|align="center"|80
-|align="center"|[[Дѣ́ло:Early Cyrillic letter Onu.png]]
-|align="center"|О
-|align="center"|онъ
-|align="center"|/o/
-|align="center"|70
+|{{Titus|Ⱁ}}
+|{{Titus|ⱁⱀⱏ}}
+|/o/
+|80
+|[[Дѣ́ло:Early Cyrillic letter Onu.png]]
+|О
+|онъ
+|/o/
+|70
 |-
-|align="center"|
-|align="center"|
-|align="center"|
-|align="center"|
-|align="center"|[[Дѣ́ло:Early Cyrillic letter Koppa.png]]
-|align="center"|Ҁ
-|align="center"|коппа
-|align="center"|<small>(ꙁвѫка нѣстъ · толико чисмєнъ ꙁна́къ ѥ́стъ)</small>
-|align="center"|90́́
+|
+|
+|
+|
+|[[Дѣ́ло:Early Cyrillic letter Koppa.png]]
+|Ҁ
+|коппа
+|<small>(ꙁвѫка нѣстъ • толико чисмєнъ ꙁна́къ ѥ́стъ)</small>
+|90́́
 |-
-|align="center"|{{Bukyvede|Ⱂ}}
-|align="center"|{{Bukyvede|ⱂⱁⰽⱁⰻ}}
-|align="center"|/p/
-|align="center"|90
-|align="center"|[[Дѣ́ло:Early Cyrillic letter Pokoi.png]]
-|align="center"|П
-|align="center"|покои
-|align="center"|/p/
-|align="center"|80
+|{{Titus|Ⱂ}}
+|{{Titus|ⱂⱁⰽⱁⰻ}}
+|/p/
+|90
+|[[Дѣ́ло:Early Cyrillic letter Pokoi.png]]
+|П
+|покои
+|/p/
+|80
 |-
-|align="center"|{{Bukyvede|Ⱃ}}
-|align="center"|{{Bukyvede|ⱃⱐⱌⰻ}}
-|align="center"|/r/
-|align="center"|100
-|align="center"|[[Дѣ́ло:Early Cyrillic letter Ritsi.png]]
-|align="center"|Р
-|align="center"|рьци
-|align="center"|/r/
-|align="center"|100
+|{{Titus|Ⱃ}}
+|{{Titus|ⱃⱐⱌⰻ}}
+|/r/
+|100
+|[[Дѣ́ло:Early Cyrillic letter Ritsi.png]]
+|Р
+|рьци
+|/r/
+|100
 |-
-|align="center"|{{Bukyvede|Ⱄ}}
-|align="center"|{{Bukyvede|ⱄⰾⱁⰲⱁ}}
-|align="center"|/s/
-|align="center"|200
-|align="center"|[[Дѣ́ло:Early Cyrillic letter Slovo.png]]
-|align="center"|С
-|align="center"|слово
-|align="center"|/s/
-|align="center"|200
+|{{Titus|Ⱄ}}
+|{{Titus|ⱄⰾⱁⰲⱁ}}
+|/s/
+|200
+|[[Дѣ́ло:Early Cyrillic letter Slovo.png]]
+|С
+|слово
+|/s/
+|200
 |-
-|align="center"|{{Bukyvede|Ⱅ}}
-|align="center"|{{Bukyvede|ⱅⰲⱃⱐⰴⱁ}}
-|align="center"|/t/
-|align="center"|300
-|align="center"|[[Дѣ́ло:Early Cyrillic letter Tvrido.png]]
-|align="center"|Т
-|align="center"|тврьдо
-|align="center"|/t/
-|align="center"|300
+|{{Titus|Ⱅ}}
+|{{Titus|ⱅⰲⱃⱐⰴⱁ}}
+|/t/
+|300
+|[[Дѣ́ло:Early Cyrillic letter Tvrido.png]]
+|Т
+|тврьдо
+|/t/
+|300
 |-
-|align="center"|{{Bukyvede|Ⱛ}}
-|align="center"|{{Bukyvede|ⱛⰽⱏ}}
-|align="center"|/ʲu/
-|align="center"|
-|align="center"|
-|align="center"|
-|align="center"|
-|align="center"|
-|align="center"|
-|align="center"|
+|{{Titus|Ⱛ}}
+|{{Titus|ⱛⰽⱏ}}
+|/ʲu/
+|
+|
+|
+|
+|
+|
+|
 |-
-|align="center"|
-|align="center"|
-|align="center"|
-|align="center"|
-|align="center"|[[Дѣ́ло:Early Cyrillic letter Uku.png]]
+|
+|
+|
+|
+|[[Дѣ́ло:Early Cyrillic letter Uku.png]]
 |align="center"|́́Оу
-|align="center"|оукъ
-|align="center"|/u/
-|align="center"|400
+|оукъ
+|/u/
+|400
 |-
-|align="center"|{{Bukyvede|Ⱇ}}
-|align="center"|{{Bukyvede|ⱇⱃⱐⱅⱏ}}
-|align="center"|/p/ > /f/
-|align="center"|500
-|align="center"|[[Дѣ́ло:Early Cyrillic letter Fritu.png]]
-|align="center"|Ф
-|align="center"|фрьтъ
-|align="center"|/f/
-|align="center"|500
+|{{Titus|Ⱇ}}
+|{{Titus|ⱇⱃⱐⱅⱏ}}
+|/p/ > /f/
+|500
+|[[Дѣ́ло:Early Cyrillic letter Fritu.png]]
+|Ф
+|фрьтъ
+|/f/
+|500
 |-
-|align="center"|{{Bukyvede|Ⱈ}}
-|align="center"|{{Bukyvede|ⱈⱑⱃⱏ}}
-|align="center"|/x/
-|align="center"|600
-|align="center"|[[Дѣ́ло:Early Cyrillic letter Khieru.png]]
-|align="center"|Х
-|align="center"|хѣръ
-|align="center"|/x/
-|align="center"|600
+|{{Titus|Ⱈ}}
+|{{Titus|ⱈⱑⱃⱏ}}
+|/x/
+|600
+|[[Дѣ́ло:Early Cyrillic letter Khieru.png]]
+|Х
+|хѣръ
+|/x/
+|600
 |-
-|align="center"|{{Bukyvede|Ⱉ}}
-|align="center"|
-|align="center"|/o/
-|align="center"|700
-|align="center"|[[Дѣ́ло:Early Cyrillic letter Otu.png]]
-|align="center"|Ѡ
-|align="center"|ѡмєга, от
-|align="center"|/o/
-|align="center"|800
+|{{Titus|Ⱉ}}
+|
+|/o/
+|700
+|[[Дѣ́ло:Early Cyrillic letter Otu.png]]
+|Ѡ
+|ѡмєга, от
+|/o/
+|800
 |-
-|align="center"|{{Bukyvede|Ⱋ}}
-|align="center"|{{Bukyvede|ⱋⱑ}}
-|align="center"|/tʲ/
-|align="center"|800
-|align="center"|[[Дѣ́ло:Early Cyrillic letter Shta.png]]
-|align="center"|Щ
-|align="center"|ща
-|align="center"|/ʃtʲ/
-|align="center"|
+|{{Titus|Ⱋ}}
+|{{Titus|ⱋⱑ}}
+|/tʲ/
+|800
+|[[Дѣ́ло:Early Cyrillic letter Shta.png]]
+|Щ
+|ща
+|/ʃtʲ/
+|
 |-
-|align="center"|{{Bukyvede|Ⱌ}}
-|align="center"|{{Bukyvede|ⱌⰻ}}
-|align="center"|/ʦʲ/
-|align="center"|900
-|align="center"|[[Дѣ́ло:Early Cyrillic letter Tsi.png]]
-|align="center"|Ц
-|align="center"|ци
-|align="center"|/ʦʲ/
-|align="center"|
+|{{Titus|Ⱌ}}
+|{{Titus|ⱌⰻ}}
+|/ʦʲ/
+|900
+|[[Дѣ́ло:Early Cyrillic letter Tsi.png]]
+|Ц
+|ци
+|/ʦʲ/
+|
 |-
-|align="center"|{{Bukyvede|Ⱍ}}
-|align="center"|{{Bukyvede|ⱍⱃⱐⰲⱐ}}
-|align="center"|/ʧʲ/
-|align="center"|1000
-|align="center"|[[Дѣ́ло:Early Cyrillic letter Chrivi.png]]
-|align="center"|Ч
-|align="center"|чрьвь
-|align="center"|/ʧʲ/
-|align="center"|90
+|{{Titus|Ⱍ}}
+|{{Titus|ⱍⱃⱐⰲⱐ}}
+|/ʧʲ/
+|1000
+|[[Дѣ́ло:Early Cyrillic letter Chrivi.png]]
+|Ч
+|чрьвь
+|/ʧʲ/
+|90
 |-
-|align="center"|{{Bukyvede|Ⱎ}}
-|align="center"|{{Bukyvede|ⱎⱑ}}
-|align="center"|/ʃʲ/
-|align="center"|
-|align="center"|[[Дѣ́ло:Early Cyrillic letter Sha.png]]
-|align="center"|Ш
-|align="center"|ша
-|align="center"|/ʃʲ/
-|align="center"|
+|{{Titus|Ⱎ}}
+|{{Titus|ⱎⱑ}}
+|/ʃʲ/
+|
+|[[Дѣ́ло:Early Cyrillic letter Sha.png]]
+|Ш
+|ша
+|/ʃʲ/
+|
 |-
-|align="center"|{{Bukyvede|Ⱏ}}
-|align="center"|{{Bukyvede|ⰵⱃⱏ}}
-|align="center"|/ɯ̆/
-|align="center"|
-|align="center"|[[Дѣ́ло:Early Cyrillic letter Yeru.png]]
-|align="center"|Ъ
-|align="center"|ѥръ
-|align="center"|/ɯ̆/
-|align="center"|
+|{{Titus|Ⱏ}}
+|{{Titus|ⰵⱃⱏ}}
+|/ɯ̆/
+|
+|[[Дѣ́ло:Early Cyrillic letter Yeru.png]]
+|Ъ
+|ѥръ
+|/ɯ̆/
+|
 |-
-|align="center"|
-|align="center"|
-|align="center"|
-|align="center"|
-|align="center"|[[Дѣ́ло:Early Cyrillic letter Yery.png]]
-|align="center"|Ꙑ
-|align="center"|ѥрꙑ
-|align="center"|/ɯ/
-|align="center"|
+|
+|
+|
+|
+|[[Дѣ́ло:Early Cyrillic letter Yery.png]]
+|Ꙑ
+|ѥрꙑ
+|/ɯ/
+|
 |-
-|align="center"|{{Bukyvede|Ⱐ}}
-|align="center"|{{Bukyvede|ⰵⱃⱐ}}
-|align="center"|/ĭ/
-|align="center"|
-|align="center"|[[Дѣ́ло:Early Cyrillic letter Yeri.png]]
-|align="center"|Ь
-|align="center"|ѥрь
-|align="center"|/ĭ/
-|align="center"|
+|{{Titus|Ⱐ}}
+|{{Titus|ⰵⱃⱐ}}
+|/ĭ/
+|
+|[[Дѣ́ло:Early Cyrillic letter Yeri.png]]
+|Ь
+|ѥрь
+|/ĭ/
+|
 |-
-|align="center"|{{Bukyvede|Ⱑ}}
-|align="center"|{{Bukyvede|ⱑⰴⱐ}}
-|align="center"|/jæ/ или /ʲæ/
-|align="center"|
-|align="center"|[[Дѣ́ло:Early Cyrillic letter Yati.png]]
+|{{Titus|Ⱑ}}
+|{{Titus|ⱑⰴⱐ}}
+|/jæ/ или /ʲæ/
+|
+|[[Дѣ́ло:Early Cyrillic letter Yati.png]]
 |align="center"|́Ѣ
-|align="center"|ꙗдь
-|align="center"|/jæ/ или /ʲæ/
-|align="center"|
+|ꙗдь
+|/jæ/ или /ʲæ/
+|
 |-
-|align="center"|{{Bukyvede|Ⱒ}}
-|align="center"|{{Bukyvede|ⱒⰰⰾⰻ}} (?)
-|align="center"|/xw/
-|align="center"|
-|align="center"|
-|align="center"|
-|align="center"|
-|align="center"|
-|align="center"|
+|{{Titus|Ⱒ}}
+|{{Titus|ⱒⰰⰾⰻ}} (?)
+|/xw/
+|
+|
+|
+|
+|
+|
 |-
-|align="center"|{{Bukyvede|Ⱖ}}
-|align="center"|{{Bukyvede|ⱖ}}
-|align="center"|/jo/ или /ʲo/ (толико съ нѫсомь)
-|align="center"|
-|align="center"|
-|align="center"|
-|align="center"|
-|align="center"|
-|align="center"|
+|{{Titus|Ⱖ}}
+|{{Titus|ⱖ}}
+|/jo/ или /ʲo/ (толико съ нѫсомь)
+|
+|
+|
+|
+|
+|
 |-
-|align="center"|{{Bukyvede|Ⱓ}}
-|align="center"|{{Bukyvede|ⱓ}}
-|align="center"|/ju/ или /ʲu/
-|align="center"|
-|align="center"|[[Дѣ́ло:Early Cyrillic letter Yu.png]]
-|align="center"|Ю
-|align="center"|ю
-|align="center"|/ju/ или /ʲu/
-|align="center"|
+|{{Titus|Ⱓ}}
+|{{Titus|ⱓ}}
+|/ju/ или /ʲu/
+|
+|[[Дѣ́ло:Early Cyrillic letter Yu.png]]
+|Ю
+|ю
+|/ju/ или /ʲu/
+|
 |-
-|align="center"|{{Bukyvede|Ⱔ}}
-|align="center"|{{Bukyvede|ⱁⱔⱄⱏ}}
-|align="center"|/ ̃/ (носовъ приꙁвѫкъ) или /n/ (прѣдъ сѫгласьникꙑ)
-|align="center"|
-|align="center"|
-|align="center"|
-|align="center"|
-|align="center"|
-|align="center"|
+|{{Titus|Ⱔ}}
+|{{Titus|ⱁⱔⱄⱏ}}
+|/ ̃/ (носовъ приꙁвѫкъ) или /n/ (прѣдъ сѫгласьникꙑ)
+|
+|
+|
+|
+|
+|
 |-
-|align="center"|
-|align="center"|
-|align="center"|
-|align="center"|
-|align="center"|
-|align="center"|Ꙗ
-|align="center"|ꙗ
-|align="center"|/ja/ или /ʲa/ (или = ѣ)
-|align="center"|
+|
+|
+|
+|
+|
+|Ꙗ
+|ꙗ
+|/ja/ или /ʲa/ (или = ѣ)
+|
 |-
-|align="center"|
-|align="center"|
-|align="center"|
-|align="center"|
-|align="center"|[[Дѣ́ло:Early Cyrillic letter Ye.png]]
-|align="center"|Ѥ
-|align="center"|ѥ
-|align="center"|/je/ или /ʲe/
-|align="center"|
+|
+|
+|
+|
+|[[Дѣ́ло:Early Cyrillic letter Ye.png]]
+|Ѥ
+|ѥ
+|/je/ или /ʲe/
+|
 |-
-|align="center"|
-|align="center"|
-|align="center"|
-|align="center"|
-|align="center"|[[Дѣ́ло:Early Cyrillic letter Yusu Maliy.png]]
-|align="center"|Ѧ
-|align="center"|ѭсъ (малъ)
-|align="center"|/ẽ/
-|align="center"|
+|
+|
+|
+|
+|[[Дѣ́ло:Early Cyrillic letter Yusu Maliy.png]]
+|Ѧ
+|ѭсъ (малъ)
+|/ẽ/
+|
 |-
-|align="center"|
-|align="center"|
-|align="center"|
-|align="center"|
-|align="center"|[[Дѣ́ло:Early Cyrillic letter Yusu Maliy Yotirovaniy.png]]
-|align="center"|Ѩ
-|align="center"|
-|align="center"|/jẽ/ или /ʲẽ/
-|align="center"|
+|
+|
+|
+|
+|[[Дѣ́ло:Early Cyrillic letter Yusu Maliy Yotirovaniy.png]]
+|Ѩ
+|
+|/jẽ/ или /ʲẽ/
+|
 |-
-|align="center"|
-|align="center"|
-|align="center"|
-|align="center"|
-|align="center"|[[Дѣ́ло:Early Cyrillic letter Yusu Bolshiy.png]]
-|align="center"|Ѫ
-|align="center"|ѭсъ (вєликъ)
-|align="center"|/õ/
-|align="center"|
+|
+|
+|
+|
+|[[Дѣ́ло:Early Cyrillic letter Yusu Bolshiy.png]]
+|Ѫ
+|ѭсъ (вєликъ)
+|/õ/
+|
 |-
-|align="center"|
-|align="center"|
-|align="center"|
-|align="center"|
-|align="center"|[[Дѣ́ло:Early Cyrillic letter Yusu Bolshiy Yotirovaniy.png]]
-|align="center"|Ѭ
-|align="center"|
-|align="center"|/jõ/ или /ʲõ/
-|align="center"|
+|
+|
+|
+|
+|[[Дѣ́ло:Early Cyrillic letter Yusu Bolshiy Yotirovaniy.png]]
+|Ѭ
+|
+|/jõ/ или /ʲõ/
+|
 |-
-|align="center"|
-|align="center"|
-|align="center"|
-|align="center"|
-|align="center"|[[Дѣ́ло:Early Cyrillic letter Ksi.png]]
-|align="center"|Ѯ
-|align="center"|ѯі
-|align="center"|/ks/
-|align="center"|60
+|
+|
+|
+|
+|[[Дѣ́ло:Early Cyrillic letter Ksi.png]]
+|Ѯ
+|ѯі
+|/ks/
+|60
 |-
-|align="center"|
-|align="center"|
-|align="center"|
-|align="center"|
-|align="center"|[[Дѣ́ло:Early Cyrillic letter Psi.png]]
-|align="center"|Ѱ
-|align="center"|ѱі
-|align="center"|/ps/
-|align="center"|700
+|
+|
+|
+|
+|[[Дѣ́ло:Early Cyrillic letter Psi.png]]
+|Ѱ
+|ѱі
+|/ps/
+|700
 |-
-|align="center"|
-|align="center"|
-|align="center"|
-|align="center"|
-|align="center"|[[Дѣ́ло:Early Cyrillic letter Fita.png]]
-|align="center"|Ѳ
-|align="center"|ѳита
-|align="center"|/f/ ~ /θ/ ~ /t/
-|align="center"|9
+|
+|
+|
+|
+|[[Дѣ́ло:Early Cyrillic letter Fita.png]]
+|Ѳ
+|ѳита
+|/f/ ~ /θ/ ~ /t/
+|9
 |-
-|align="center"|
-|align="center"|
-|align="center"|
-|align="center"|
-|align="center"|[[Дѣ́ло:Early Cyrillic letter Izhitsa.png]]
-|align="center"|Ѵ
-|align="center"|ѵкъ (ижица)
-|align="center"|/i/ или /v/ (/w/)
-|align="center"|
+|
+|
+|
+|
+|[[Дѣ́ло:Early Cyrillic letter Izhitsa.png]]
+|Ѵ
+|ѵкъ (ижица)
+|/i/ или /v/ (/w/)
+|
 |}
+
 
 [[Катигорі́ꙗ:Словѣ́ньска а́ꙁъбоукꙑ]]
 [[Катигорі́ꙗ:Гра́мота]]
