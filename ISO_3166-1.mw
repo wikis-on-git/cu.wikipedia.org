@@ -1,0 +1,598 @@
+'''[[ISO]] 3166-1''' чѧстъ отъ єпі́симьнꙑ сѷсти́мꙑ пьса́ниꙗ по МО҃О ѥстъ · ижє кодомь равьноправьни дрьжавꙑ и такождє нєсамостоꙗтєл҄ьнꙑ ꙁємлѩ даѥтъ ⁙ Нꙑнѣ 240 дрьжавꙑ свои кодъ имѫтъ ⁙ Ꙁьри тавлїꙗ нижє :
+
+{| class="wide sortable" border="1px" cellspacing="0" cellpadding="2px"
+|- 
+! Държава!!Цифрова<br />система!!Alpha-3!!Alpha-2!!Местен<br />ISO код
+|-
+| {{AFG}}||004||AFG||AF||ISO 3166-2:AF
+|-
+| {{AUS}}||036||AUS||AU||ISO 3166-2:AU
+|-
+| {{AUT}}||040||AUT||AT||ISO 3166-2:AT
+|-
+| {{AZE}}||031||AZE||AZ||ISO 3166-2:AZ
+|-
+| {{ALB}}||008||ALB||AL||ISO 3166-2:AL
+|-
+| {{DZA}}||012||DZA||DZ||ISO 3166-2:DZ
+|-
+| {{ASM}}||016||ASM||AS||ISO 3166-2:AS
+|-
+| {{VIR}}||850||VIR||VI||ISO 3166-2:VI
+|-
+| {{AGO}}||024||AGO||AO||ISO 3166-2:AO
+|-
+| {{AIA}}||660||AIA||AI||ISO 3166-2:AI
+|-
+| {{AND}}||020||AND||AD||ISO 3166-2:AD
+|-
+| {{ATA}}||010||ATA||AQ||ISO 3166-2:AQ 
+|-
+| {{ATG}}||028||ATG||AG||ISO 3166-2:AG
+|-
+| {{ARG}}||032||ARG||AR||ISO 3166-2:AR 
+|-
+| {{ARM}}||051||ARM||AM||ISO 3166-2:AM
+|-
+| {{ABW}}||533||ABW||AW||ISO 3166-2:AW 
+|-
+| {{BGD}}||050||BGD||BD||ISO 3166-2:BD 
+|-
+| {{BRB}}||052||BRB||BB||ISO 3166-2:BB 
+|-
+| {{BHS}}||044||BHS||BS||ISO 3166-2:BS 
+|-
+| {{BHR}}||048||BHR||BH||ISO 3166-2:BH 
+|-
+| {{BLR}}||112||BLR||BY||ISO 3166-2:BY 
+|-
+| {{BEL}}||056||BEL||BE||ISO 3166-2:BE 
+|-
+| {{BLZ}}||084||BLZ||BZ||ISO 3166-2:BZ 
+|-
+| {{BEN}}||204||BEN||BJ||ISO 3166-2:BJ 
+|-
+| {{BMU}}||060||BMU||BM||ISO 3166-2:BM 
+|-
+| {{BOL}}||068||BOL||BO||ISO 3166-2:BO 
+|-
+| {{BIH}}||070||BIH||BA||ISO 3166-2:BA 
+|-
+| {{BWA}}||072||BWA||BW||ISO 3166-2:BW 
+|-
+| {{BRA}}||076||BRA||BR||ISO 3166-2:BR 
+|-
+| {{IOT}}||086||IOT||IO||ISO 3166-2:IO 
+|-
+| {{VGB}}||092||VGB||VG||ISO 3166-2:VG 
+|-
+| {{BRN}}||096||BRN||BN||ISO 3166-2:BN 
+|-
+| {{BVT}}||074||BVT||BV||ISO 3166-2:BV 
+|-
+| {{BFA}}||854||BFA||BF||ISO 3166-2:BF 
+|-
+| {{BDI}}||108||BDI||BI||ISO 3166-2:BI 
+|-
+| {{BTN}}||064||BTN||BT||ISO 3166-2:BT 
+|-
+| {{BGR}}||100||BGR||BG||[[ISO 3166-2:BG]] 
+|-
+| {{VUT}}||548||VUT||VU||ISO 3166-2:VU 
+|-
+| {{VAT}}||336||VAT||VA||ISO 3166-2:VA 
+|-
+| {{GBR}}||826||GBR||GB||ISO 3166-2:GB 
+|-
+| {{VEN}}||862||VEN||VE||ISO 3166-2:VE 
+|-
+| {{VNM}}||704||VNM||VN||ISO 3166-2:VN 
+|-
+| {{GAB}}||266||GAB||GA||ISO 3166-2:GA 
+|-
+| {{GMB}}||270||GMB||GM||ISO 3166-2:GM 
+|-
+| {{GHA}}||288||GHA||GH||ISO 3166-2:GH 
+|-
+| {{GUY}}||328||GUY||GY||ISO 3166-2:GY 
+|-
+| {{GLP}}||312||GLP||GP||ISO 3166-2:GP 
+|-
+| {{GTM}}||320||GTM||GT||ISO 3166-2:GT 
+|-
+| {{GNB}}||624||GNB||GW||ISO 3166-2:GW 
+|-
+| {{GIN}}||324||GIN||GN||ISO 3166-2:GN 
+|-
+| {{DEU}}||276||DEU||DE||ISO 3166-2:DE 
+|-
+| {{GIB}}||292||GIB||GI||ISO 3166-2:GI 
+|-
+| {{GRD}}||308||GRD||GD||ISO 3166-2:GD 
+|-
+| {{GRL}}||304||GRL||GL||ISO 3166-2:GL 
+|-
+| {{GEO}}|| 268||GEO||GE||ISO 3166-2:GE 
+|-
+| {{GUM}}||316||GUM||GU||ISO 3166-2:GU 
+|-
+| {{GGY}}||831||GGY||GG||ISO 3166-2:GG 
+|-
+| {{GRC}}||300||GRC||GR||ISO 3166-2:GR 
+|-
+| {{DNK}}||208||DNK||DK||ISO 3166-2:DK 
+|-
+| {{COD}}||180||COD||CD||ISO 3166-2:CD 
+|-
+| {{DJI}}||262||DJI||DJ||ISO 3166-2:DJ 
+|-
+| {{JEY}}||832||JEY||JE||ISO 3166-2:JE 
+|-
+| {{DMA}}|| 212||DMA||DM||ISO 3166-2:DM 
+|-
+| {{DOM}}||214||DOM||DO||ISO 3166-2:DO 
+|-
+| {{EU}}||???||???||EU||ISO 3166-2:EU 
+|-
+| {{EGY}}||818||EGY||EG||ISO 3166-2:EG 
+|-
+| {{ECU}}||218||ECU||EC||ISO 3166-2:EC 
+|-
+| {{GNQ}}||226||GNQ||GQ||ISO 3166-2:GQ 
+|-
+| {{ERI}}||232||ERI||ER||ISO 3166-2:ER 
+|-
+| {{EST}}||233||EST||EE||ISO 3166-2:EE 
+|-
+| {{ETH}}||231||ETH||ET||ISO 3166-2:ET 
+|-
+| {{ZMB}}||894||ZMB||ZM||ISO 3166-2:ZM 
+|-
+| {{ESH}}||732||ESH||EH||ISO 3166-2:EH 
+|-
+| {{ZWE}}||716||ZWE||ZW||ISO 3166-2:ZW 
+|-
+| {{ISR}}||376||ISR||IL||ISO 3166-2:IL 
+|-
+| {{TLS}}||626||TLS||TL||ISO 3166-2:TL 
+|-
+| {{IND}}||356||IND||IN||ISO 3166-2:IN 
+|-
+| {{IDN}}||360||IDN||ID||ISO 3166-2:ID 
+|-
+| {{IRQ}}||368||IRQ||IQ||ISO 3166-2:IQ 
+|-
+| {{IRN}}||364||IRN||IR||ISO 3166-2:IR 
+|-
+| {{ISL}}||352||ISL||IS||ISO 3166-2:IS 
+|-
+| {{ESP}}||724||ESP||ES||ISO 3166-2:ES 
+|-
+| {{ITA}}||380||ITA||IT||ISO 3166-2:IT 
+|-
+| {{YEM}}||887||YEM||YE||ISO 3166-2:YE 
+|-
+| {{JOR}}||400||JOR||JO||ISO 3166-2:JO 
+|-
+| {{KAZ}}||398||KAZ||KZ||ISO 3166-2:KZ 
+|-
+| {{CYM}}||136||CYM||KY||ISO 3166-2:KY 
+|-
+| {{KHM}}||116||KHM||KH||ISO 3166-2:KH 
+|-
+|{{CMR}}||120||CMR||CM||ISO 3166-2:CM 
+|-
+| {{CAN}}||124||CAN||CA||ISO 3166-2:CA 
+|-
+| {{CPV}}||132||CPV||CV||ISO 3166-2:CV 
+|-
+| {{QAT}}||634||QAT||QA||ISO 3166-2:QA 
+|-
+| {{KEN}}||404||KEN||KE||ISO 3166-2:KE 
+|-
+| {{CYP}}||196||CYP||CY||ISO 3166-2:CY 
+|-
+| {{KGZ}}||417||KGZ||KG||ISO 3166-2:KG 
+|-
+| {{KIR}}||296||KIR||KI||ISO 3166-2:KI 
+|-
+| {{CHN}}||156||CHN||CN||ISO 3166-2:CN 
+|-
+| {{CCK}}||166||CCK||CC||ISO 3166-2:CC 
+|-
+| {{COL}}||170||COL||CO||ISO 3166-2:CO 
+|-
+| {{COM}}||174||COM||KM||ISO 3166-2:KM 
+|-
+| {{CRI}}||188||CRI||CR||ISO 3166-2:CR 
+|-
+| {{CIV}}||384||CIV||CI||ISO 3166-2:CI 
+|-
+| {{CUB}}||192||CUB||CU||ISO 3166-2:CU 
+|-
+| {{KWT}}||414||KWT||KW||ISO 3166-2:KW 
+|-
+| {{LAO}}||418||LAO||LA||ISO 3166-2:LA 
+|-
+| {{LVA}}||428||LVA||LV||ISO 3166-2:LV 
+|-
+| {{LSO}}||426||LSO||LS||ISO 3166-2:LS 
+|-
+| {{LBR}}||430||LBR||LR||ISO 3166-2:LR 
+|-
+| {{LBY}}||434||LBY||LY||ISO 3166-2:LY 
+|-
+| {{LBN}}||422||LBN||LB||ISO 3166-2:LB 
+|-
+| {{LTU}}||440||LTU||LT||ISO 3166-2:LT 
+|-
+| {{LIE}}||438||LIE||LI||ISO 3166-2:LI 
+|-
+| {{LUX}}||442||LUX||LU||ISO 3166-2:LU 
+|-
+| {{MRT}}||478||MRT||MR||ISO 3166-2:MR 
+|-
+| {{MUS}}||480||MUS||MU||ISO 3166-2:MU 
+|- 
+| {{MDG}}||450||MDG||MG||ISO 3166-2:MG 
+|-
+| {{MYT}}||175||MYT||YT||ISO 3166-2:YT 
+|-
+| {{MAC}}||446||MAC||MO||ISO 3166-2:MO 
+|-
+| {{MKD}}||807||MKD||MK||ISO 3166-2:MK 
+|-
+| {{MWI}}||454||MWI||MW||ISO 3166-2:MW 
+|-
+| {{MYS}}||458||MYS||MY||ISO 3166-2:MY 
+|-
+| {{MDV}}||462||MDV||MV||ISO 3166-2:MV 
+|-
+| {{MLI}}||466||MLI||ML||ISO 3166-2:ML 
+|-
+| {{UMI}}||581||UMI||UM||ISO 3166-2:UM 
+|-
+| {{MLT}}||470||MLT||MT||ISO 3166-2:MT 
+|-
+| {{MAR}}||504||MAR||MA||ISO 3166-2:MA 
+|-
+| {{MTQ}}||474||MTQ||MQ||ISO 3166-2:MQ 
+|-
+| {{MHL}}||584||MHL||MH||ISO 3166-2:MH 
+|-
+| {{MEX}}||484||MEX||MX||ISO 3166-2:MX 
+|-
+| {{MMR}}||104||MMR||MM||ISO 3166-2:MM 
+|-
+| {{FSM}}||583||FSM||FM||ISO 3166-2:FM 
+|-
+| {{MOZ}}||508||MOZ||MZ||ISO 3166-2:MZ 
+|-
+| {{MDA}}||498||MDA||MD||ISO 3166-2:MD 
+|-
+| {{MCO}}||492||MCO||MC||ISO 3166-2:MC 
+|-
+| {{MNG}}||496||MNG||MN||ISO 3166-2:MN 
+|-
+| {{MSR}}||500||MSR||MS||ISO 3166-2:MS 
+|-
+| {{NAM}}||516||NAM||NA||ISO 3166-2:NA 
+|-
+| {{NRU}}||520||NRU||NR||ISO 3166-2:NR 
+|-
+| {{NPL}}||524||NPL||NP||ISO 3166-2:NP 
+|-
+| {{NER}}||562||NER||NE||ISO 3166-2:NE 
+|-
+| {{NGA}}||566||NGA||NG||ISO 3166-2:NG 
+|-
+| {{NIC}}||558||NIC||NI||ISO 3166-2:NI 
+|-
+| {{NIU}}||570||NIU||NU||ISO 3166-2:NU 
+|-
+| {{NZL}}||554||NZL||NZ||ISO 3166-2:NZ 
+|-
+| {{NCL}}||540||NCL||NC||ISO 3166-2:NC 
+|-
+| {{NOR}}||578||NOR||NO||ISO 3166-2:NO 
+|-
+| {{NFK}}||574||NFK||NF||ISO 3166-2:NF 
+|-
+| {{ARE}}||784||ARE||AE||ISO 3166-2:AE 
+|-
+| {{ALA}}||248||ALA||AX||ISO 3166-2:AX 
+|-
+| {{OMN}}||512||OMN||OM||ISO 3166-2:OM 
+|-
+| {{CXR}}||162||CXR||CX||ISO 3166-2:CX 
+|-
+| {{IMN}}||833||IMN||IM||ISO 3166-2:IM 
+|-
+| {{COK}}||184||COK||CK||ISO 3166-2:CK 
+|-
+| {{HMD}}||334||HMD||HM||ISO 3166-2:HM 
+|-
+| {{PAK}}||586||PAK||PK||ISO 3166-2:PK 
+|-
+| {{PLW}}||585||PLW||PW||ISO 3166-2:PW 
+|-
+| {{PSE}}||275||PSE||PS||ISO 3166-2:PS 
+|-
+| {{PAN}}||591||PAN||PA||ISO 3166-2:PA 
+|-
+| {{PNG}}||598||PNG||PG||ISO 3166-2:PG 
+|-
+| {{PRY}}||600||PRY||PY||ISO 3166-2:PY 
+|-
+| {{PER}}||604||PER||PE||ISO 3166-2:PE 
+|-
+| {{PCN}}||612||PCN||PN||ISO 3166-2:PN 
+|-
+| {{POL}}||616||POL||PL||ISO 3166-2:PL 
+|-
+| {{PRT}}||620||PRT||PT||ISO 3166-2:PT 
+|-
+| {{PRI}}||630||PRI||PR||ISO 3166-2:PR 
+|-
+| {{IRL}}||372||IRL||IE||ISO 3166-2:IE 
+|-
+| {{COG}}||178||COG||CG||ISO 3166-2:CG 
+|-
+| {{REU}}||638||REU||RE||ISO 3166-2:RE 
+|-
+| {{RWA}}||646||RWA||RW||ISO 3166-2:RW 
+|-
+| {{ROU}}||642||ROU||RO||ISO 3166-2:RO 
+|-
+| {{RUS}}||643||RUS||RU||ISO 3166-2:RU 
+|-
+| {{SLV}}||222||SLV||SV||ISO 3166-2:SV 
+|-
+| {{WSM}}||882||WSM||WS||ISO 3166-2:WS 
+|-
+| {{SMR}}||674||SMR||SM||ISO 3166-2:SM 
+|-
+| {{STP}}||678||STP||ST||ISO 3166-2:ST 
+|-
+| {{SAU}}||682||SAU||SA||ISO 3166-2:SA 
+|-
+| {{SWZ}}||748||SWZ||SZ||ISO 3166-2:SZ 
+|-
+| {{SJM}}||744||SJM||SJ||ISO 3166-2:SJ 
+|-
+| {{SHN}}||654||SHN||SH||ISO 3166-2:SH 
+|-
+| {{PRK}}||408||PRK||KP||ISO 3166-2:KP 
+|-
+| {{MNP}}||580||MNP||MP||ISO 3166-2:MP 
+|-
+| {{VCT}}||670||VCT||VC||ISO 3166-2:VC 
+|-
+| {{KNA}}||659||KNA||KN||ISO 3166-2:KN 
+|-
+| {{LCA}}||662||LCA||LC||ISO 3166-2:LC 
+|-
+| {{SYC}}||690||SYC||SC||ISO 3166-2:SC 
+|-
+| {{BLM}}||652||BLM||BL||ISO 3166-2:BL 
+|-
+| {{MAF}}||663||MAF||MF||ISO 3166-2:MF 
+|-
+| {{SPM}}||666||SPM||PM||ISO 3166-2:PM 
+|-
+| {{SEN}}||686||SEN||SN||ISO 3166-2:SN 
+|-
+| {{SLE}}||694||SLE||SL||ISO 3166-2:SL 
+|-
+| {{SGP}}||702||SGP||SG||ISO 3166-2:SG 
+|-
+| {{SYR}}||760||SYR||SY||ISO 3166-2:SY 
+|-
+| {{SVK}}||703||SVK||SK||ISO 3166-2:SK 
+|-
+| {{SVN}}||705||SVN||SI||ISO 3166-2:SI 
+|-
+| {{SLB}}||090||SLB||SB||ISO 3166-2:SB 
+|-
+| {{SOM}}||706||SOM||SO||ISO 3166-2:SO 
+|-
+| {{SDN}}||736||SDN||SD||ISO 3166-2:SD 
+|-
+| {{SUR}}||740||SUR||SR||ISO 3166-2:SR 
+|-
+| {{USA}}||840||USA||US||ISO 3166-2:US 
+|-
+| {{SRB}}||688||SRB||RS||ISO 3166-2:RS 
+|-
+| {{TJK}}||762||TJK||TJ||ISO 3166-2:TJ 
+|-
+| {{TWN}}||158||TWN||TW||ISO 3166-2:TW 
+|-
+| {{THA}}||764||THA||TH||ISO 3166-2:TH 
+|-
+| {{TZA}}||834||TZA||TZ||ISO 3166-2:TZ 
+|-
+| {{TGO}}||768||TGO||TG||ISO 3166-2:TG 
+|-
+| {{TKL}}||772||TKL||TK||ISO 3166-2:TK 
+|-
+| {{TON}}||776||TON||TO||ISO 3166-2:TO
+|-
+| {{TTO}}||780||TTO||TT||ISO 3166-2:TT 
+|-
+| {{TUV}}||798||TUV||TV||ISO 3166-2:TV 
+|-
+| {{TUN}}||788||TUN||TN||ISO 3166-2:TN 
+|-
+| {{TKM}}||795||TKM||TM||ISO 3166-2:TM 
+|-
+| {{TUR}}||792||TUR||TR||ISO 3166-2:TR 
+|-
+| {{TCA}}||796||TCA||TC||ISO 3166-2:TC 
+|-
+| {{UGA}}||800||UGA||UG||ISO 3166-2:UG 
+|-
+| {{UZB}}||860||UZB||UZ||ISO 3166-2:UZ 
+|-
+| {{UKR}}||804||UKR||UA||ISO 3166-2:UA 
+|-
+| {{HUN}}||348||HUN||HU||ISO 3166-2:HU 
+|-
+| {{WLF}}||876||WLF||WF||ISO 3166-2:WF 
+|-
+| {{URY}}||858||URY||UY||ISO 3166-2:UY 
+|-
+| {{FRO}}||234||FRO||FO||ISO 3166-2:FO 
+|-
+| {{FJI}}||242||FJI||FJ||ISO 3166-2:FJ 
+|-
+| {{PHL}}||608||PHL||PH||ISO 3166-2:PH 
+|-
+| {{FIN}}||246||FIN||FI||ISO 3166-2:FI 
+|-
+| {{FLK}}||238||FLK||FK||ISO 3166-2:FK 
+|-
+| {{FRA}}||250||FRA||FR||ISO 3166-2:FR 
+|-
+| {{GUF}}||254||GUF||GF||ISO 3166-2:GF 
+|-
+| {{PYF}}||258||PYF||PF||ISO 3166-2:PF 
+|-
+| {{ATF}}||260||ATF||TF||ISO 3166-2:TF 
+|-
+| {{HTI}}||332||HTI||HT||ISO 3166-2:HT 
+|-
+| {{NLD}}||528||NLD||NL||ISO 3166-2:NL 
+|-
+| {{ANT}}||530||ANT||AN||ISO 3166-2:AN 
+|-
+| {{HND}}||340||HND||HN||ISO 3166-2:HN 
+|-
+| {{HKG}}||344||HKG||HK||ISO 3166-2:HK 
+|-
+| {{HRV}}||191||HRV||HR||ISO 3166-2:HR 
+|-
+| {{CAF}}||140||CAF||CF||ISO 3166-2:CF 
+|-
+| {{TCD}}||148||TCD||TD||ISO 3166-2:TD 
+|-
+| {{MNE}}||499||MNE||ME||ISO 3166-2:ME 
+|-
+| {{CZE}}||203||CZE||CZ||ISO 3166-2:CZ 
+|-
+| {{CHL}}||152||CHL||CL||ISO 3166-2:CL 
+|-
+| {{CHE}}||756||CHE||CH||ISO 3166-2:CH 
+|-
+| {{SWE}}||752||SWE||SE||ISO 3166-2:SE 
+|-
+| {{LKA}}||144||LKA||LK||ISO 3166-2:LK 
+|-
+| {{SGS}}||239||SGS||GS||ISO 3166-2:GS 
+|-
+| {{KOR}}||410||KOR||KR||ISO 3166-2:KR 
+|-
+| {{ZAF}}||710||ZAF||ZA||ISO 3166-2:ZA 
+|-
+| {{JAM}}||388||JAM||JM||ISO 3166-2:JM 
+|-
+| {{JPN}}||392||JPN||JP||ISO 3166-2:JP 
+|-
+|}
+
+== ꙁьри такождє ==
+* [[Катало́гъ дрьжа́вꙑ свѣ́та]]
+
+[[Катигорі́ꙗ:Єпі́симьнꙑ сѷсти́мꙑ пьса́ниꙗ по МО҃О]]
+
+[[af:ISO 3166-1]]
+[[ar:أيزو 3166-1]]
+[[as:ISO 3166-1]]
+[[ast:ISO 3166-1]]
+[[bcl:ISO 3166-1]]
+[[be:ISO 3166-1]]
+[[be-x-old:ISO 3166-1]]
+[[bpy:ISO 3166-1]]
+[[bg:ISO 3166-1]]
+[[ca:ISO 3166-1]]
+[[cs:ISO 3166-1]]
+[[csb:ISO 3166-1]]
+[[da:ISO 3166-1]]
+[[de:ISO-3166-1-Kodierliste]]
+[[dsb:ISO 3166-1]]
+[[el:ISO 3166-1]]
+[[en:ISO 3166-1]]
+[[eo:3-literaj kodoj de ISO 3166-1]]
+[[es:ISO 3166-1]]
+[[et:ISO maakoodide loend]]
+[[eu:ISO 3166-1]]
+[[fa:ایزو ۳۱۶۶-۱]]
+[[fi:Luettelo ISO 3166 -standardin koodeista]]
+[[fo:ISO 3166-1]]
+[[fr:ISO 3166-1]]
+[[fy:ISO 3166-1]]
+[[gl:ISO 3166-1]]
+[[hi:ISO 3166-1]]
+[[hr:ISO 3166-1]]
+[[hsb:ISO 3166-1]]
+[[hu:ISO 3166-1]]
+[[hy:ISO 3166-1]]
+[[id:ISO 3166-1]]
+[[ig:ISO 3166-1]]
+[[is:ISO 3166-1]]
+[[it:ISO 3166-1]]
+[[ja:ISO 3166-1]]
+[[jv:ISO 3166-1]]
+[[ka:ISO 3166-1]]
+[[kaa:ISO 3166-1]]
+[[kk:ISO 3166-1]]
+[[km:ISO 3166-1]]
+[[kn:ಐಎಸ್ಒ ೩೧೬೬-೧]]
+[[ko:ISO 3166-1]]
+[[ksh:ISO 3166-1]]
+[[lb:ISO 3166-1]]
+[[li:ISO 3166-1]]
+[[lt:ISO 3166-1]]
+[[lv:ISO 3166-1]]
+[[mg:ISO 3166-1]]
+[[mk:ISO 3166-1]]
+[[mn:ISO 3166-1]]
+[[ms:ISO 3166-1]]
+[[nds-nl:ISO 3166-1]]
+[[ne:आईएसओ ३१६६-१]]
+[[nl:ISO 3166-1]]
+[[no:ISO 3166-1]]
+[[ny:ISO 3166-1]]
+[[pa:ISO 3166-1]]
+[[pl:ISO 3166-1]]
+[[pnb:ISO 3166-1]]
+[[ps:ISO 3166-1]]
+[[pt:ISO 3166-1]]
+[[rm:ISO 3166-1]]
+[[ro:ISO 3166-1]]
+[[roa-tara:ISO 3166-1]]
+[[ru:ISO 3166-1]]
+[[rw:ISO 3166-1]]
+[[sah:ISO 3166-1]]
+[[si:ISO 3166-1]]
+[[simple:ISO 3166-1]]
+[[sk:ISO 3166-1]]
+[[sq:ISO 3166-1]]
+[[sr:ISO 3166-1]]
+[[su:ISO 3166-1]]
+[[sw:ISO 3166-1]]
+[[te:దేశాల జాబితా – ISO 3166-1 కోడ్]]
+[[tg:ISO 3166-1]]
+[[th:ISO 3166-1]]
+[[ti:ISO 3166-1]]
+[[tt:ISO 3166-1]]
+[[tum:ISO 3166-1]]
+[[udm:ISO 3166-1]]
+[[ug:ISO 3166-1]]
+[[uk:ISO 3166-1]]
+[[ur:ISO 3166-1]]
+[[uz:ISO 3166-1]]
+[[vi:ISO 3166-1]]
+[[yo:ISO 3166-1]]
+[[zh:ISO 3166-1]]
+[[zh-yue:ISO 3166-1]]
