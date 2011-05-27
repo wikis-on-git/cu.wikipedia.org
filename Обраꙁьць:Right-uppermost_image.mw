@@ -1,0 +1,35 @@
+<div style="position:absolute; z-index:100; right:10px; top:10px;" class="metadata" id="floating_object">
+<div style="position: relative; width: {{{Width|14}}}px; height: {{{Height|14}}}px; overflow: hidden">
+<div style="position: absolute; top: 0px; left: 0px; font-size: 100px; overflow: hidden; line-height: 100px; z-index: 3">[[{{{Link|Link_example}}}|<span title="{{{Text|Text_example}}}">&nbsp;&nbsp;&nbsp;</span>]]</div>
+<div style="position: absolute; top: 0px; left: 0px; z-index: 2">[[Image:{{{Image|QS green star small.png}}}|{{{Width|14}}}px]]</div>
+</div>
+</div><noinclude>
+[[ab:Ашаблон:Right-uppermost image]]
+[[ar:قالب:إيقونة عنوان]]
+[[be:Шаблон:Right-uppermost image]]
+[[bm:Modèle:Icône de titre]]
+[[ce:Куцкеп:Right-uppermost image]]
+[[dsb:Pśedłoga:Titelowy symbol]]
+[[en:Template:Top icon]]
+[[eo:Ŝablono:Titola ikono]]
+[[es:Plantilla:Icono en título]]
+[[fr:Modèle:Icône de titre]]
+[[frp:Modèlo:Icôna de titro]]
+[[hsb:Předłoha:Titulowy symbol]]
+[[hy:Կաղապար:Right-uppermost image]]
+[[it:Template:Icona del titolo]]
+[[ja:Template:Top icon]]
+[[kv:Шаблон:Right-uppermost image]]
+[[mt:Mudell:Ikoni tat-titlu]]
+[[oc:Modèl:Icòna de títol]]
+[[roa-tara:Template:Icona del titolo]]
+[[ru:Шаблон:Right-uppermost image]]
+[[sah:Халыып:Right-uppermost image]]
+[[scn:Template:Icona tìtulu]]
+[[ta:வார்ப்புரு:Top icon]]
+[[tg:Шаблон:Right-uppermost image]]
+[[udm:Шаблон:Right-uppermost image]]
+[[uk:Шаблон:Right-uppermost image]]
+[[vec:Modèl:Icona del titoło]]
+[[vi:Bản mẫu:Hình trên cùng góc phải]]
+[[zh:Template:Topicon]]</noinclude>
